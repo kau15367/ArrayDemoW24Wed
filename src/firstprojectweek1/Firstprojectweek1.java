@@ -4,7 +4,7 @@ package firstprojectweek1;
 import java.util.Scanner;
 
 /**
- *
+ *commenting for modification on jan17 at 9:50 am
  * @author Admin
  */
 public class Firstprojectweek1 {
